@@ -1,0 +1,26 @@
+# Артефакты сборки
+*.o
+*.obj
+*.exe
+*.out
+*.app
+a.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+CLion/
+cmake-build-*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
